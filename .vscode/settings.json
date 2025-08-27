@@ -1,0 +1,15 @@
+{
+    "mcp": {
+        "servers": {
+            "filesystem": {
+                "command": "npx",
+                "args": [
+                    "-y",
+                    "@modelcontextprotocol/server-filesystem",
+                    "/Users/evesquare/Downloads/名称未設定フォルダ"
+                ],
+            }
+        }
+    },
+    "chat.mcp.discovery.enabled": true
+}
